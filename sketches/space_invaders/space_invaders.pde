@@ -1,4 +1,4 @@
-int rows = 6;
+int rows = 5;
 int cols = 8;
 int invaderSize = 30;
 int playerSize = 50;
